@@ -6,21 +6,21 @@
 
 # Linux
 <!-- Create a virtual environment-->
-Create a virtual environment
+<ul>Create a virtual environment</ul>
   <li>python3 -m venv myenv</li>
 
 <!--Activate the virtual environment-->
-<li>Activate the virtual environment</li>
-source myenv/bin/activate
+<ul>Activate the virtual environment</ul>
+  <li>source myenv/bin/activate</li>
 
 <!--Install the Package-->
-<li>Install the Package</li>
-pip install phonenumbers
+<ul>Install the Package</ul>
+  <li>pip install phonenumbers</li>
 
 <!--Run the Command-->
-<li>Run the Command</li>
-python3 netlocator.py
+<ul>Run the Command</ul>
+  <li>python3 netlocator.py</li>
 
 <!--After using the virtual environment, deactivate it-->
-<li>After using the virtual environment, deactivate it</li>
-deactivate
+<ul>After using the virtual environment, deactivate it</ul>
+  <li>source myenv/bin/deactivate</li>
