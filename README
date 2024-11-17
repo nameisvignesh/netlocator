@@ -1,0 +1,17 @@
+# NetLocator
+
+NetLocator is a Python script that helps you identify the internet service provider (ISP) associated with a given mobile number. By using the `phonenumbers` library, it can parse phone numbers and retrieve information such as the carrier and geographical location.
+
+## Features
+- Identify the service provider for a given mobile number.
+- Retrieve geographical location information based on the mobile number.
+- Simple and user-friendly interface.
+
+## Installation
+
+To use NetLocator, you need to have Python installed on your machine. Follow these steps to set it up:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nameisvignesh/netlocator.git
+   cd netlocator
